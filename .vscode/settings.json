@@ -2,6 +2,7 @@
   "java.project.sourcePaths": [
     "3_operators",
     "2_Data_Types",
-    "4_String"
+    "4_String",
+    "5_controlStatement"
   ]
 }
