@@ -5,6 +5,5 @@
 temp/
 
 *.class
-**.vscode
 
-.vscode
+/.vscode
