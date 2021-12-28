@@ -9,6 +9,7 @@ public class d1 {
         sc.close();
     }
     static int max(int x, int y){
+        x++;
         if(x>y)
             return x;
          else
