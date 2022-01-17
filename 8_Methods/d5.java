@@ -8,6 +8,7 @@ public class d5 {
         n.change(A,4,9);
         for (int i = 0; i < A.length; i++) {
             System.out.print(A[i] + " ");
+            
         }
     }
 }
