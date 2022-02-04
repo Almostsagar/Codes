@@ -9,7 +9,7 @@ public class a8 {
         System.out.println(str4.equals(str3));
         System.out.println(str2.equals(str1));
         System.out.println(str2.equalsIgnoreCase(str1));
-        System.out.println(str2.compareTo(str1));
+        System.out.println(str1.compareTo(str2));
         System.out.println(str3.compareTo(str4));
         System.out.println(str2.compareTo(str3));
 
@@ -37,7 +37,8 @@ public class a8 {
 
         String st2 = "The Great Wall"; 
         String st3 = " Of China";
-        System.out.println(st2.concat(st3));
+        st2 = st2.concat(st3);
+        System.out.println(st2);
         System.out.println(st2 + st3);
 
         
